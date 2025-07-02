@@ -11,7 +11,7 @@ To address this challenge, we first proposed a Graph Neural Network (GNN)-based 
 - **Visualization Integration**: Integrates features on cell distribution and developmental direction across multiple samples, providing an overview of the spatial evolutionary patterns of cell populations along trajectories.
 - **Enhanced Data Interpretation**: Includes contour maps superimposed on the original cell distribution data, facilitating intuitive exploration by biologists.## System Overview
 
-![](\figs\overview.png)
+![](figs/overview.png)
   
   **TrajLens** comprises four coordinated views designed to support the visual exploration and refinement of cross-sample cell developmental trajectories:
   **(A) Core Cell Selection View**: This view enables users to identify and select core cell types by examining their temporal occurrence and quantitative dynamics throughout development. It provides an overview of cell population changes across samples, guiding the selection of biologically meaningful reference cell types for trajectory construction.
