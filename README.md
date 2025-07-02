@@ -15,11 +15,11 @@ To address this challenge, we first proposed a Graph Neural Network (GNN)-based 
 
 ![](figs/overview.png)
   
-  **TrajLens** comprises four coordinated views designed to support the visual exploration and refinement of cross-sample cell developmental trajectories:
-  **(A) Core Cell Selection View**: This view enables users to identify and select core cell types by examining their temporal occurrence and quantitative dynamics throughout development. It provides an overview of cell population changes across samples, guiding the selection of biologically meaningful reference cell types for trajectory construction.
-  **(B) Path Selection View**: Designed to facilitate the intuitive selection and analysis of complex developmental paths, this view emphasizes high-frequency and diverse trajectory patterns. Users can explore potential developmental routes and focus on those with significant biological relevance.
-  **(C) Path Inspection View**: This view supports in-depth inspection of spatial evolutionary patterns through a multi-row synchronized visualization. It enables comprehensive validation of developmental relationships via integrated tools for sequence inspection, single-sample analysis, and similarity assessment across samples.
-  **(D) Gene Function View**: This component reveals key gene functions associated with identified developmental sequences. By linking trajectory patterns to functional annotations, it supports the biological interpretation of observed cellular transitions.
+  **TrajLens** comprises four coordinated views designed to support the visual exploration and refinement of cross-sample cell developmental trajectories:\
+  **(A) Core Cell Selection View**: This view enables users to identify and select core cell types by examining their temporal occurrence and quantitative dynamics throughout development. It provides an overview of cell population changes across samples, guiding the selection of biologically meaningful reference cell types for trajectory construction.\
+  **(B) Path Selection View**: Designed to facilitate the intuitive selection and analysis of complex developmental paths, this view emphasizes high-frequency and diverse trajectory patterns. Users can explore potential developmental routes and focus on those with significant biological relevance.\
+  **(C) Path Inspection View**: This view supports in-depth inspection of spatial evolutionary patterns through a multi-row synchronized visualization. It enables comprehensive validation of developmental relationships via integrated tools for sequence inspection, single-sample analysis, and similarity assessment across samples.\
+  **(D) Gene Function View**: This component reveals key gene functions associated with identified developmental sequences. By linking trajectory patterns to functional annotations, it supports the biological interpretation of observed cellular transitions.\
 ## Supplemental Materials
   
   All supplemental materials, including dataset descriptions and extended results, are available.
