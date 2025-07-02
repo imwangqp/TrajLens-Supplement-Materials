@@ -9,9 +9,7 @@ To address this challenge, we first proposed a Graph Neural Network (GNN)-based 
 
 - **Cross-Sample Prediction Model**: Utilizes a GNN-based approach to predict cell developmental trajectories across multiple samples.
 - **Visualization Integration**: Integrates features on cell distribution and developmental direction across multiple samples, providing an overview of the spatial evolutionary patterns of cell populations along trajectories.
-- **Enhanced Data Interpretation**: Includes contour maps superimposed on the original cell distribution data, facilitating intuitive exploration by biologists
-
-## System Overview
+- **Enhanced Data Interpretation**: Includes contour maps superimposed on the original cell distribution data, facilitating intuitive exploration by biologists.## System Overview
 
 ![](\figs\overview.png)
   
